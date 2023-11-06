@@ -1,18 +1,1 @@
-Pedido para: ==========toto==========
--------------Dimensiones de la superficie------------- 
-Longitud: 16.0 m 
-Anchura: 9.0 m 
-Altura: 0.12 m
--------------Volumen de la superficie------------- 
-volumen: 17.28 m3
---------------------------Materiales--------------------------
 
-La Cantida de Cemento a Utilizar: 6350.400000000001 m3
-
-Bolsas de cemento requeridas: 127.00800000000001 de 50kg
-
-Cantidad de arena requerida: 9.676800000000002 m3
-
-Cantidad de grava requerida:14.5152 m3
-
-Cantidad de Agua requerida: 3110.4 L
